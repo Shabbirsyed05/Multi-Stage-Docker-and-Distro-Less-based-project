@@ -17,6 +17,8 @@ From the above pic it can refered.
  Stage 1 : By combining all its going upto 1.4 GB
  Stage 2: Here we are using runtime or whatever we requied .So that size is getting decresed a lot
 
+ ![image](https://github.com/Shabbirsyed05/Multi-Stage-Docker-and-Distro-Less-based-project/assets/119849465/5b902afd-91e9-493e-9335-210083e3a2b4)
+
 
 ![image](https://github.com/Shabbirsyed05/Multi-Stage-Docker-and-Distro-Less-based-project/assets/119849465/cfc6c41f-65b7-4509-9efd-0b01cb91dc00)
 
